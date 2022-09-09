@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYbdbyuLwq263bBqTw6LNdP2InDiwokTbw/QVnP9dRaRwfxZ9rFwKDITxxD6KGwUvKy7txVI6XLxkyDSL6Cu+g==",
+  "success": true,
+  "projectFilePath": "D:\\Books\\Master\\Tareas\\Automation\\RestTesting\\RestTesting\\RestTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edson\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\enumeration\\2.0.0\\enumeration.2.0.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\newtonsoft.json.schema\\3.0.10\\newtonsoft.json.schema.3.0.10.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\restassured\\1.0.0\\restassured.1.0.0.nupkg.sha512",
+    "C:\\Users\\Edson\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
